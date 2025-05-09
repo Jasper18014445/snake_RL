@@ -39,10 +39,11 @@ Dit voorbeeld van de Snake AI is een van onze eerste modellen. Dit model was get
 ```plaintext
 📁 Snake_RL
 ├── 📁 notebooks/
-│   ├── 📜 SNAKE - timeframe.ipynb
-│   ├── 📜 SNAKE - head.ipynb
-│   ├── 📜 SNAKE - smaller_view.ipynb
-│   ├── 📜 snake_results.ipynb
+│   ├── 📜 SNAKE - timeframe.ipynb        
+│   ├── 📜 SNAKE - head.ipynb             
+│   ├── 📜 SNAKE - smaller_view.ipynb     
+│   ├── 📜 snake_results.ipynb            
+│   ├── 📜 manualsnek.ipynb               
 ├── 📜 LICENSE
 ├── 📜 README.md
 ├── 📜 requirements.txt
