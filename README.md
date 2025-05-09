@@ -32,7 +32,7 @@ Deze eigenschappen maken Snake tot een waardevolle omgeving om de werking van re
 ## 📁 Projectstructuur
 
 ```plaintext
-📁 ZweedsPesten
+📁 Snake_RL
 ├── 📁 notebooks/
 │   ├── 📜
 │   ├── 📜
@@ -53,8 +53,8 @@ Volg deze stappen om het project lokaal op te zetten:
 
 1. **Clone de repository**
    ```bash
-   git clone https://github.com/jouw-gebruikersnaam/Snake-RL.git
-   cd Snake-RL
+   git clone https://github.com/jasper18014445/Snake_RL.git
+   cd Snake_RL
    ```
 
 2. **Installeer de vereiste pakketten**
