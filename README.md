@@ -44,7 +44,6 @@ Dit voorbeeld van de Snake AI is een van onze eerste modellen. Dit model was get
 ├── 📁 src/
 │   ├── 📜
 │   ├── 📜
-├── 📜 .gitignore
 ├── 📜 LICENSE
 ├── 📜 README.md
 ├── 📜 requirements.txt
