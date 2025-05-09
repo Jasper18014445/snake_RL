@@ -39,11 +39,10 @@ Dit voorbeeld van de Snake AI is een van onze eerste modellen. Dit model was get
 ```plaintext
 📁 Snake_RL
 ├── 📁 notebooks/
-│   ├── 📜
-│   ├── 📜
-├── 📁 src/
-│   ├── 📜
-│   ├── 📜
+│   ├── 📜 SNAKE - timeframe.ipynb
+│   ├── 📜 SNAKE - head.ipynb
+│   ├── 📜 SNAKE - smaller_view.ipynb
+│   ├── 📜 snake_results.ipynb
 ├── 📜 LICENSE
 ├── 📜 README.md
 ├── 📜 requirements.txt
@@ -74,7 +73,7 @@ jupyter notebook
 
 ## 📊 Geteste modellen
 
-T.B.D.
+Voor ons onderzoek is Q-Learning en PPO gebruikt. Hoewel Q-Learning niet expliciet verder is onderzocht, is PPO gebruikt om ons uiteindelijke model te trainen. Na een langdurige training is het uiteindelijk gelukt om een score van 13 te bereiken. Hoewel dit lager was dan de scores die kwamen uit het zelf spelen van **Snake**, laat dit resultaat ook de complexiteit van het spel zijn voor Deep Reïnforcement Learning modellen.
 
 ## 📜 Licentie
 
