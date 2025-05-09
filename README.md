@@ -39,9 +39,10 @@ Dit voorbeeld van de Snake AI is een van onze eerste modellen. Dit model was get
 ├── 📁 snake_env/
 │   ├── 📜 SNAKE - timeframe.ipynb        
 │   ├── 📜 SNAKE - head.ipynb             
-│   ├── 📜 SNAKE - smaller_view.ipynb     
-│   ├── 📜 snake_results.ipynb            
-│   ├── 📜 manualsnek.ipynb               
+│   ├── 📜 SNAKE - smaller_view.ipynb                
+│   ├── 📜 manualsnek.ipynb
+│   ├── 📜 SnakeRandom.ipynb
+├── 📜 snake_results.ipynb                
 ├── 📜 LICENSE
 ├── 📜 README.md
 ├── 📜 requirements.txt
