@@ -31,7 +31,7 @@ Deze eigenschappen maken Snake tot een waardevolle omgeving om de werking van re
 
 ## 🎥 Voorbeeld van een simpele Snake AI
 
-Dit voorbeeld van de Snake AI is een van onze eerste modellen. Dit model was getrained voor 1 miljoen episodes met een Q-Learning Agent en heeft verder geen aanpassingen gehad aan de reward-logica.
+Dit voorbeeld van de Snake AI is een van onze eerste modellen. Dit model was getrained voor 1 miljoen episodes met een Q-Learning Agent en heeft verder geen aanpassingen gehad aan de reward-logica. Wat hier exact te zien is zijn de laatste 5 episodes aan training, waarbij de Snake probeert zoveel mogelijk te eten. Helaas lukt dit nog niet zo goed.
 <br>
 <br>
 <p align="center">
