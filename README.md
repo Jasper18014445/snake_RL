@@ -5,15 +5,11 @@ In dit project is er een RL model ontwikkeld dat in staat is om Snake te spelen.
 
 Het project combineert een bekende en overzichtelijke spelomgeving met geavanceerde leertechnieken. Hierdoor konden we op gestructureerde wijze kennismaken met de concepten achter autonome besluitvorming en zelflerende systemen. Deze repository bevat de code, documentatie en een toelichting op de ontwerpkeuzes die we tijdens het ontwikkelproces hebben gemaakt.
 
----
-
 ## 🐍 Snake
 
 **Snake** is een klassiek en bekend computerspel waarbij de speler een slang bestuurt die probeert zoveel mogelijk voedsel op te eten. Bij elk stuk voedsel dat wordt gegeten, groeit de slang, waardoor het spel geleidelijk moeilijker wordt.  
 
 Het doel is om zo lang mogelijk te overleven zonder tegen de muren of jezelf aan te botsen. Dankzij de eenvoudige spelregels en oplopende complexiteit is Snake bijzonder geschikt als testomgeving voor leer- en besluitvormingsalgoritmen.
-
----
 
 ## 🎯 Waarom Reïnforcement Learning?
 
@@ -27,8 +23,6 @@ De spelomgeving van Snake biedt hierbij meerdere voordelen:
 
 Deze eigenschappen maken Snake tot een waardevolle omgeving om de werking van reinforcement learning in de praktijk te verkennen.
 
----
-
 ## 🎥 Voorbeeld van een simpele Snake AI
 
 Dit voorbeeld van de Snake AI is een van onze eerste modellen. Dit model was getrained voor 1 miljoen episodes met een Q-Learning Agent en heeft verder geen aanpassingen gehad aan de reward-logica. Wat hier exact te zien is zijn de laatste 5 episodes aan training, waarbij de Snake probeert zoveel mogelijk te eten. Helaas lukt dit nog niet zo goed.
@@ -37,8 +31,6 @@ Dit voorbeeld van de Snake AI is een van onze eerste modellen. Dit model was get
 <p align="center">
   <img src="Afbeeldingen_en_gifs/snake_training.gif" alt="Snake AI demo" />
 </p>
-
----
 
 ## 📁 Projectstructuur
 
@@ -56,8 +48,6 @@ Dit voorbeeld van de Snake AI is een van onze eerste modellen. Dit model was get
 ├── 📜 requirements.txt
 ```
 
----
-
 ## 🚀 Installatie
 
 Volg deze stappen om het project lokaal op te zetten:
@@ -73,8 +63,6 @@ Volg deze stappen om het project lokaal op te zetten:
    pip install -r requirements.txt
    ```
 
----
-
 ## 🏗 Gebruik
 
 Het is aan te raden om de code enkel via notebooks te gebruiken, gezien er geen functionaliteit is gemaakt voor het runnen van losse bestanden. Je kunt de notebooks openen en uitvoeren met Jupyter Notebook of Jupyter Lab:
@@ -83,13 +71,9 @@ Het is aan te raden om de code enkel via notebooks te gebruiken, gezien er geen 
 jupyter notebook
 ```
 
----
-
 ## 📊 Geteste modellen
 
 T.B.D.
-
----
 
 ## 📜 Licentie
 
