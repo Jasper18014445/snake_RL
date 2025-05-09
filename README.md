@@ -9,15 +9,17 @@ Het project combineert een bekende en overzichtelijke spelomgeving met geavancee
 
 ## 🐍 Snake
 
-**Snake** is een klassiek en bekend computerspel waarbij de speler een slang bestuurt die probeert zoveel mogelijk voedsel op te eten. Bij elk stuk voedsel dat wordt gegeten, groeit de slang, waardoor het spel geleidelijk moeilijker wordt.  
+Het spel valt binnen het genre **"Snake"**, wat niet uitsluitend naar deze specifieke game verwijst, maar naar een genre van spellen waarbij de speler een slangachtig karakter bestuurt dat geleidelijk aan groeit. Het doel in dit genre is altijd om te voorkomen dat de slang tegen de muren of zichzelf aanbotst, terwijl je probeert zoveel mogelijk voedsel te verzamelen.
 
-Het doel is om zo lang mogelijk te overleven zonder tegen de muren of jezelf aan te botsen. Dankzij de eenvoudige spelregels en oplopende complexiteit is Snake bijzonder geschikt als testomgeving voor leer- en besluitvormingsalgoritmen.
+**Snake**, de populaire game uit 1998, is een bekend computerspel waarbij de speler een slang bestuurt die probeert om zoveel mogelijk voedsel te eten. Bij elke hap groeit de slang, waardoor het spel geleidelijk aan moeilijker wordt.
+
+Dankzij de eenvoudige spelregels en oplopende complexiteit is **Snake**, de game, bijzonder geschikt als testomgeving voor leer- en besluitvormingsalgoritmen.
 
 ---
 
 ## 🎯 Waarom Reïnforcement Learning?
 
-Reïnforcement Learning is een krachtige methode om systemen te trainen op basis van beloningen en straffen. In plaats van vooraf vast te leggen welke acties optimaal zijn, leert het model door ervaring welke keuzes leiden tot succes.
+Reïnforcement Learning is een krachtige methode om systemen te trainen op basis van beloningen en straffen. In plaats van vooraf vast te leggen welke acties optimaal zijn, leert het model, door ervaring op te doen, welke keuzes leiden tot succes.
 
 De spelomgeving van Snake biedt hierbij meerdere voordelen:
 

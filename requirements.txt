@@ -1,0 +1,7 @@
+random           # (standaardbibliotheek, niet nodig om te installeren)
+json             # (standaardbibliotheek, niet nodig om te installeren)
+os               # (standaardbibliotheek, niet nodig om te installeren)
+gymnasium
+pygame
+numpy
+matplotlib
