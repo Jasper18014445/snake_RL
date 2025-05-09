@@ -7,7 +7,7 @@ Het project combineert een bekende en overzichtelijke spelomgeving met geavancee
 
 ## 🐍 Snake
 
-Het spel valt binnen het genre **"Snake"**, wat is ontstaan in 1976, maar naar een genre van spellen waarbij de speler een slangachtig karakter bestuurt dat geleidelijk aan groeit. Het doel in dit genre is altijd om te voorkomen dat de slang tegen de muren of zichzelf aanbotst, terwijl je probeert zoveel mogelijk voedsel te verzamelen.
+Het spel valt binnen het genre **"Snake"**, wat is ontstaan in 1976 en verwijst naar een genre van spellen waarbij de speler een slangachtig karakter bestuurt dat geleidelijk aan groeit. Het doel in dit genre is altijd om te voorkomen dat de slang tegen de muren of zichzelf aanbotst, terwijl je probeert zoveel mogelijk voedsel te verzamelen.
 
 **Snake**, de populaire game uit 1998, is een bekend computerspel waarbij de speler een slang bestuurt die probeert om zoveel mogelijk voedsel te eten. Bij elke hap groeit de slang, waardoor het spel geleidelijk aan moeilijker wordt. Net als bij elk spel binnen het genre is het doel om te voorkomen dat je tegen jezelf of de muren aanbotst, terwijl je zoveel mogelijk voedsel wilt eten. Dankzij deze eenvoudige spelregels en oplopende complexiteit is **Snake**, de game, bijzonder geschikt als testomgeving voor leer- en besluitvormingsalgoritmen.
 
