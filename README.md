@@ -36,7 +36,7 @@ Dit voorbeeld van de Snake AI is een van onze eerste modellen. Dit model was get
 
 ```plaintext
 📁 Snake_RL
-├── 📁 notebooks/
+├── 📁 snake_env/
 │   ├── 📜 SNAKE - timeframe.ipynb        
 │   ├── 📜 SNAKE - head.ipynb             
 │   ├── 📜 SNAKE - smaller_view.ipynb     
